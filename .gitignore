@@ -112,3 +112,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+*.pyi
+*.cfg
+sql_env/Scripts/activate
+*.bat
+*.ps1
+*.exe
